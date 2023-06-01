@@ -104,7 +104,7 @@
             margin: auto;
             width: 600px;
             height: 140px;
-            border: solid 20px rgb(0, 19, 126);
+            border: solid 20px rgb(132, 0, 255);
             flex-direction: column;
             background-color: rgb(0, 19, 126);
         }
@@ -116,7 +116,7 @@
         }
     
         .d2{
-            width: 550px;
+            width: 560px;
             height: 20px;
             border: solid 20px rgb(210, 138, 12);
             border-bottom: 0px;
@@ -131,7 +131,7 @@
         }
     
         .d22{
-            width: 550px;
+            width: 560px;
             height: 20px;
             border: solid 20px rgb(210, 138, 12);
             background-color: rgb(145, 37, 177);
@@ -144,7 +144,7 @@
             margin-left: -20px;
             width: 600px;
             height: 80px;
-            border: solid 20px rgb(0, 19, 126);
+            border: solid 20px rgb(132, 0, 255);
             background-color: rgb(145, 37, 177);
         }
     
