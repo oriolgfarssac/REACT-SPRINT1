@@ -82,7 +82,7 @@
         }
 
         .text1 {
-            color: rgb(223, 177, 91);
+            color: rgba(223, 177, 91, 0.805);
             width: 70%;
             height: 190px;
             display: flex;
@@ -181,7 +181,7 @@
         }
 
         .text1 {
-            color: rgb(223, 177, 91);
+            color: rgba(223, 177, 91, 0.804);
             width: 70%;
             height: 190px;
             display: flex;

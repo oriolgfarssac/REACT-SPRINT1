@@ -84,7 +84,7 @@
         }
 
         .text1 {
-            color: rgb(223, 177, 91);
+            color: rgba(223, 177, 91, 0.737);
             width: 70%;
             height: 150px;
             display: flex;

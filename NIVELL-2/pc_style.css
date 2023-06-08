@@ -44,7 +44,7 @@
         
     
         .space{
-            height:  20px;
+            height:  10px;
         }
     
         .thirdpart{
@@ -98,7 +98,7 @@
         }
 
         .text1 {
-            color: rgb(223, 177, 91);
+            color: rgba(223, 177, 91, 0.771);
             width: 70%;
             height: 200px;
             display: flex;
